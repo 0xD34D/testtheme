@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <style name="Preference">
+        <item name="android:layout">@android:layout/preference</item>
+    </style>
+
     <style name="Preference.SwitchPreference">
         <item name="android:widgetLayout">@android:layout/preference_widget_switch</item>
         <item name="android:switchTextOn">@string/capital_on</item>
         <item name="android:switchTextOff">@string/capital_off</item>
     </style>
+
 </resources>
