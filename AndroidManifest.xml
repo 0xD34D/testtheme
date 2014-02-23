@@ -2,6 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.scheffsblend.testheme">
     <uses-sdk android:minSdkVersion="19"/>
+
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Clark's Test Theme"/>
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="Clark Scheff" />
+
     <application android:icon="@drawable/icon" android:label="@string/app_name">
     </application>
 </manifest>
