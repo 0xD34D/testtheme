@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="panel_bg">#ff204080</color>
+
+    <color name="memory_used">#00F</color>
+    <color name="memory_avail">#333333</color>
+    <color name="memory_apps_usage">#1A8377</color>
+    <color name="memory_downloads">#936047</color>
+    <color name="memory_dcim">#7F3A79</color>
+    <color name="memory_music">#2A568E</color>
+    <color name="memory_cache">#929347</color>
+    <color name="memory_misc">#30307C</color>
+    <color name="memory_user_light">#929347</color>
+    <color name="memory_user_dark">#656631</color>
+
+</resources>

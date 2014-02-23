@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  Size of icons in the top-level of settings  -->
+    <dimen name="header_icon_width">48dp</dimen>
+    <dimen name="appwidget_min_width">280dip</dimen>
+    <dimen name="appwidget_min_height">56dip</dimen>
+
+</resources>
