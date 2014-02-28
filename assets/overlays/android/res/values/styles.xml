@@ -7,8 +7,21 @@
 
     <style name="Preference.SwitchPreference">
         <item name="android:widgetLayout">@*android:layout/preference_widget_switch</item>
-        <item name="android:switchTextOn">@string/capital_on</item>
-        <item name="android:switchTextOff">@string/capital_off</item>
+        <item name="android:switchTextOn">BOO</item>
+        <item name="android:switchTextOff">YAH</item>
+    </style>
+
+    <style name="TextAppearance">
+        <item name="android:textColor">#ffff00ff</item>
+        <item name="android:textColorHighlight">#ffff00ff</item>
+        <item name="android:textColorHint">#ffff00ff</item>
+        <item name="android:textColorLink">#ffff00ff</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+
+    <style name="TextAppearance.DialogWindowTitle" parent="@*android:style/TextAppearance">
+        <item name="android:textSize">64sp</item>
     </style>
 
 </resources>

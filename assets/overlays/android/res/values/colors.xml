@@ -2,7 +2,7 @@
 <resources>
 
     <color name="pinky">#ffff8080</color>
-    <color name="bright_foreground_dark">@color/pinky</color>
+    <color name="bright_foreground_dark">@*android:color/background_light</color>
     <color name="bright_foreground_light">@*android:color/background_dark</color>
     <color name="bright_foreground_dark_disabled">#80ffffff</color>
     <color name="bright_foreground_light_disabled">#80000000</color>
